@@ -1,10 +1,1 @@
-{
-  "workers": [
-    "https://sparkling-queen-9d22.tchevara1972.workers.dev",
-    "https://young-truth-d972.kingofthrone73.workers.dev"
-  ],
-  "active": 0,
-  "main": "https://frembed.help",
-  "swBuild": "frembed-v6-1773640530109",
-  "updated": "2026-04-10"
-}
+{ "main": "https://frembed.cyou", "backup": "https://frembed.help" }
